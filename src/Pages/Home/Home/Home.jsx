@@ -1,5 +1,6 @@
 import { CarouselWithContent } from "../CarouselWithContent/CarouselWithContent";
 import Contact from "../Contact/Contact";
+import Services from "../Services/Services";
 import Team from "../Team/Team";
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
         <div>
             {/* <Banner></Banner> */}
             <CarouselWithContent/>
+            <Services></Services>
             <Team></Team>
             <Contact></Contact>
         </div>

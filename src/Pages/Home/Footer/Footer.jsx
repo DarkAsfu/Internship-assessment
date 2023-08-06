@@ -52,7 +52,7 @@ const Footer = () => {
                                 backgroundColor: 'gray',
                                 filter: 'grayscale(100%)', // Add this line to make the map black and white
                             }}
-                            allowfullscreen=""
+                            allowFullScreen=""
                             loading="lazy"
                             referrerPolicy="no-referrer-when-downgrade"
                         ></iframe>
