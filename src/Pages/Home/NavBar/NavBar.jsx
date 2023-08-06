@@ -9,7 +9,7 @@ const NavBar = () => {
                         <div className="flex items-center justify-between">
                             <div className="relative z-20">
                                 <Link to="/">
-                                    <img className="w-[160px]" src="../../../../public/managent-logo2.png" alt="" />
+                                    <img className="w-[160px]" src="https://i.ibb.co/b1qwDSm/managent-logo2.png" alt="logo" />
                                 </Link>
                             </div>
 
@@ -24,17 +24,17 @@ const NavBar = () => {
                                     <div className="flex flex-col h-full justify-between lg:items-center lg:flex-row">
                                         <ul style={{paddingRight: '400px', fontFamily: 'Nunito Sans'}} className="px-6 pt-32 text-[#222222] font-semibold uppercase space-y-8 md:px-12 lg:space-y-0 lg:flex lg:space-x-12 lg:pt-0 text-[14.4px]">
                                             <li>
-                                                <Link to='/' className="group relative before:absolute before:inset-x-0 before:bottom-0 before:h-1 before:origin-right before:scale-x-0 before:bg-cyan-100 before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100">
+                                                <Link to='/' className="whitespace-nowrap group relative before:absolute before:inset-x-0 before:top-6 before:h-0.5 before:origin-right before:scale-x-0 before:bg-[#FF4A17] before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100">
                                                     <span className="relative ">Home</span>
                                                 </Link>
                                             </li>
                                             <li>
-                                                <Link className="whitespace-nowrap group relative before:absolute before:inset-x-0 before:bottom-0 before:h-1 before:origin-right before:scale-x-0 before:bg-cyan-100 before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100">
+                                                <Link className="whitespace-nowrap group relative before:absolute before:inset-x-0 before:top-6 before:h-0.5 before:origin-right before:scale-x-0 before:bg-[#FF4A17] before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100">
                                                     <span className="relative ">Live Demo</span>
                                                 </Link>
                                             </li>
                                             <li>
-                                                <Link className="whitespace-nowrap group relative before:absolute before:inset-x-0 before:bottom-0 before:h-1 before:origin-right before:scale-x-0 before:bg-cyan-100 before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100">
+                                                <Link className="whitespace-nowrap group relative before:absolute before:inset-x-0 before:top-6 before:h-0.5 before:origin-right before:scale-x-0 before:bg-[#FF4A17] before:transition before:duration-200 hover:before:origin-left hover:before:scale-x-100">
                                                     <span className="relative ">Live Demo Blocks</span>
                                                 </Link>
                                             </li>
