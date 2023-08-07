@@ -4,7 +4,7 @@ const Team = () => {
         <div className="mt-20">
             <div className="w-11/12 md:w-10/12 mx-auto md:flex p-0 md:p-20 py-8 shadow-lg">
                 <div className="w-[361px] h-[200px] md:w-[535px] md:h-[500px] text-center">
-                    <img className="w-[361px] h-[200px]  md:w-[535px] md:h-[500px] rounded-md ml-3.5" src="../../../../public/team3.jpg" alt="" />
+                    <img className="w-[361px] h-[200px]  md:w-[535px] md:h-[500px] rounded-md ml-3.5" src="https://i.ibb.co/xYKxjVb/team3.jpg" alt="" />
                 </div>
                 <div>
                     <div className="bg-[#14212B] md:px-24 px-6 mx-12 md:mx-0 text-center py-3 mt-10 md:py-8 rounded-md md:-ml-10 md:mt-10">

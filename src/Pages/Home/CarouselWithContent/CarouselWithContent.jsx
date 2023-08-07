@@ -5,7 +5,7 @@ export function CarouselWithContent() {
         <Carousel style={{fontFamily: 'Nunito Sans, sans-serif'}}>
             <div className="relative h-[700px] w-full" style={{fontFamily: 'Nunito Sans, sans-serif'}}>
                 <img
-                    src="../../../../public/colleagues1.jpeg"
+                    src="https://i.ibb.co/6NYsj0L/colleagues1.jpg"
                     alt="image 1"
                     className="h-full w-full object-cover"
                 />
@@ -51,7 +51,7 @@ export function CarouselWithContent() {
             </div>
             <div className="relative h-[700px] w-full">
                 <img
-                    src="../../../../public/colleagues1.jpeg"
+                    src="https://i.ibb.co/3cXvhYm/colleagues2.jpg"
                     alt="image 1"
                     className="h-full w-full object-cover"
                 />
@@ -97,7 +97,7 @@ export function CarouselWithContent() {
             </div>
             <div className="relative h-[700px] w-full">
                 <img
-                    src="../../../../public/colleagues1.jpeg"
+                    src="https://i.ibb.co/T2ykcTC/colleagues3.jpg"
                     alt="image 1"
                     className="h-full w-full object-cover"
                 />
